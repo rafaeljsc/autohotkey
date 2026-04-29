@@ -1,2 +1,2 @@
 # autohotkey
-Introdução e templates de AutoHotKeys
+Introdução e templates de AutoHotKey
